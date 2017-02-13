@@ -11,5 +11,5 @@ Program usage demonstrating how to run the program is given below.
         ./gls -h /Users/Me/Desktop  
 
 # Compilation
-gcc -Wall -lssl -lcrypto gls.c -o gls  
+    gcc -Wall -lssl -lcrypto gls.c -o gls  
   
